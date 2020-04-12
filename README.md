@@ -1,2 +1,4 @@
 # hello-world
-Trial Repository
+Hello! I'm Sofia. 
+
+Learning, exploring, and attempting the coding world :) 
